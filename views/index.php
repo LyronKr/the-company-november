@@ -12,7 +12,7 @@
         <div class="row h-100 m-0">
             <div class="card w-25 mx-auto my-auto">
                 <div class="card-header bg-white border-0 py-3">
-                    <h1 class="text-center">LOGIN</h1>
+                    <h1 class="text-center">The Login</h1>
                 </div>
                 <div class="card-body">
                     <form action="../actions/login.php" method="post">
